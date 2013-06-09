@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2012 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="cw-circled" unicode="&#xe804;" d="M0 350q0 207 146 353t353 146 353-146 146-353-146-353-353-146-353 146-146 353z m211 0q0-119 85-204t204-85q80 0 146 39t104 105l-102 59q-21-39-62-62t-87-23q-70 0-121 51t-51 121 51 121 121 51q61 0 107-37l-76-55 258-86 0 270-84-61q-84 86-205 86-119 0-204-85t-85-204z" horiz-adv-x="1000" />
+<glyph glyph-name="plus-circled" unicode="&#xe801;" d="M0 350q0 207 146 353t353 146 353-146 146-353-146-353-353-146-353 146-146 353z m219-80l201 0 0-201 160 0 0 201 201 0 0 160-201 0 0 201-160 0 0-201-201 0 0-160z" horiz-adv-x="1000" />
+<glyph glyph-name="minus-circled" unicode="&#xe802;" d="M0 350q0 207 146 353t353 146 353-146 146-353-146-353-353-146-353 146-146 353z m213-82l574 0 0 164-574 0 0-164z" horiz-adv-x="1000" />
+<glyph glyph-name="folder-circled" unicode="&#xe800;" d="M0 350q0 207 146 353t353 146 353-146 146-353-146-353-353-146-353 146-146 353z m201-240l598 0 0 426-303 0-41 55-129 0-43-55-82 0 0-426z" horiz-adv-x="1000" />
+<glyph glyph-name="down-circled" unicode="&#xe803;" d="M0 350q0 207 146 353t353 146 353-146 146-353-146-353-353-146-353 146-146 353z m248 55l252-377 252 377-135 0 0 268-234 0 0-268-135 0z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
