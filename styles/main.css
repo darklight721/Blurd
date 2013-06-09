@@ -1,6 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
 @import url(fontello.css);
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\000035}}
 body, .container {
   width: 100%;
   height: 100%;
@@ -8,30 +7,30 @@ body, .container {
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000318}}
 body {
   overflow: hidden;
   background-color: #333333;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000324}}
 .container {
   position: absolute;
   top: 0;
   left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000331}}
 .center-content {
   display: -webkit-flex;
   display: flex;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000335}}
 .center-content > * {
   margin: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000340}}
 .loading {
   font-family: 'Source Sans Pro', sans-serif;
   background-color: #333333;
@@ -39,19 +38,19 @@ body {
   -moz-transition: top 1s ease-out;
   transition: top 1s ease-out;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000345}}
 .loading > span {
   display: inline-block;
   color: #ddd;
   font-size: 1.8em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000352}}
 canvas {
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000356}}
 header {
   display: inline-block;
   padding: 5px 10px;
@@ -61,7 +60,7 @@ header {
   border-radius: 3px;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(0, 0, 0, 0.1);
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000365}}
 header h1 {
   font-size: 4em;
   text-align: center;
@@ -69,10 +68,11 @@ header h1 {
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000373}}
 .btn-group {
   padding-top: 5px;
   border-top: 1px solid rgba(51, 51, 51, 0.2);
+  text-align: center;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Roy\/Dropbox\/Projects\/Blurry\/app\/styles\/main\.scss}line{font-family:\0000378}}
 .btn-group button {
